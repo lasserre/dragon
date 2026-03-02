@@ -1,6 +1,6 @@
 # DRAGON
 
-This is the companion repository for the paper *DRAGON: Predicting Decompiled Variable Data Types with Learned Confidence Estimates*.
+This is the companion repository for the paper [*DRAGON: Predicting Decompiled Variable Data Types with Learned Confidence Estimates*](https://www.ndss-symposium.org/ndss-paper/auto-draft-629/).
 
 # Data Artifacts
 Several artifacts are available for download [here](https://drive.google.com/drive/folders/1ccE8IJiHOLn0l9_GG3hysSGxCC2tF_eo?usp=drive_link).
